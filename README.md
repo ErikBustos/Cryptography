@@ -1,2 +1,7 @@
 # Cryptography
-Implementation in Java of some Cryptography Algorithms like the extended euclidean algorithm, fast modular  exponentiation , Ceaser cipher, EulersPhi  , etc.
+Implementation in 'Java' of Cryptography Algorithms.
+##Contents
+*Extended Euclidean Algorithm*
+*Fast Modular Exponentiation*
+*Ceaser Cipher*
+*Euler's Phi function*
